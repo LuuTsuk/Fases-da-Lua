@@ -1,1 +1,1 @@
-# Fases-da-Lua
+# Esse jogo da memória foi criado atravez do tutorial do <a href="https://www.youtube.com/c/ManualdoDev" target="_blank">Manual do Dev</a>, mas a arte eu fiz inteiramente no <a href="https://www.canva.com/" target="_blank">Canva</a>.
