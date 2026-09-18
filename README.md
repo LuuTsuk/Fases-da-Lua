@@ -1,8 +1,8 @@
 # 🌙 Fases da Lua — Jogo da Memória
 
-Jogo da memória desenvolvido com **HTML, CSS e JavaScript** como projeto de estudo de desenvolvimento Front-end.
+Jogo da memória desenvolvido com **HTML, CSS e JavaScript** durante meus estudos de desenvolvimento Front-end.
 
-O projeto possui uma tela inicial para identificação do jogador e uma área destinada à partida.
+O projeto foi criado acompanhando um tutorial em vídeo e posteriormente personalizado por mim com o tema **Fases da Lua**.
 
 ---
 
@@ -20,11 +20,11 @@ O projeto possui uma tela inicial para identificação do jogador e uma área de
 
 ## 💻 Sobre o projeto
 
-O **Fases da Lua** foi desenvolvido com o objetivo de praticar conceitos de JavaScript e criação de aplicações web interativas.
+O **Fases da Lua** é um jogo da memória desenvolvido como projeto de estudo para praticar conceitos de **HTML, CSS e JavaScript**.
 
-Antes de iniciar a partida, o jogador informa seu nome através de uma tela de entrada.
+O desenvolvimento foi realizado acompanhando um tutorial, utilizando o projeto como base para compreender a estrutura e a lógica de funcionamento de um jogo da memória.
 
-A partir desse projeto, pude praticar conceitos importantes de desenvolvimento Front-end, especialmente a integração entre HTML, CSS e JavaScript.
+A partir dessa base, personalizei o projeto com minha própria temática e identidade visual, transformando-o no **Fases da Lua**.
 
 ---
 
@@ -38,11 +38,13 @@ A partir desse projeto, pude praticar conceitos importantes de desenvolvimento F
 
 ## ✨ Funcionalidades
 
-- Tela de entrada do jogador
-- Campo para informar o nome
-- Validação para iniciar a partida
+- Tela inicial para identificação do jogador
+- Campo para inserir o nome
+- Validação antes de iniciar a partida
 - Jogo da memória
-- Interface interativa
+- Identificação de pares
+- Interface personalizada
+- Interações utilizando JavaScript
 
 ---
 
@@ -56,16 +58,32 @@ A partir desse projeto, pude praticar conceitos importantes de desenvolvimento F
 
 ## 📚 O que pratiquei
 
+Durante o desenvolvimento deste projeto, pratiquei:
+
+- Estruturação de páginas com HTML
+- Estilização utilizando CSS
 - Manipulação do DOM
 - Eventos em JavaScript
 - Funções
 - Validação de campos
 - Lógica de programação
-- Estruturação com HTML
-- Estilização com CSS
+- Interação entre HTML, CSS e JavaScript
+- Personalização visual de um projeto existente
+
+---
+
+## 🎓 Referência utilizada
+
+Este projeto foi desenvolvido acompanhando o tutorial:
+
+📺 [Assistir ao vídeo utilizado como referência](https://youtu.be/NV88N1r2Qkg)
+
+O tutorial foi utilizado como material de estudo para compreender a construção e a lógica de um jogo da memória com JavaScript.
+
+A versão presente neste repositório foi personalizada por mim com o tema **Fases da Lua**.
 
 ---
 
 <p align="center">
-  Projeto desenvolvido para estudo e prática de Front-end. 🌙
+  Projeto desenvolvido para fins de estudo e prática de Front-end. 🌙
 </p>
