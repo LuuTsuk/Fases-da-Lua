@@ -13,7 +13,7 @@ O projeto possui uma tela inicial para identificação do jogador e uma área de
 </p>
 
 <p align="center">
-  <img src="./assets/jogo.png" alt="Jogo da memória Fases da Lua" width="700">
+  <img src="./assets/Jogo.png" alt="Jogo da memória Fases da Lua" width="700">
 </p>
 
 ---
